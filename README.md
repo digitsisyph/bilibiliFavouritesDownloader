@@ -5,7 +5,7 @@
 ## 环境要求
 
 - `Python3` 与 `urllib` 库
-- 基于 python 开发的视频下载器 `you-get` （https://github.com/soimort/you-get）
+- 基于 python 开发的视频下载器 `you-get` （ https://github.com/soimort/you-get ）
 
 如果已经安装有 `python 3`，可直接通过命令行安装 `you-get`。
 

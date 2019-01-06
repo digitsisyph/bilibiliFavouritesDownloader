@@ -20,5 +20,6 @@ pip3 install you-get
 ### 如何查看用户id与收藏夹id
 
 进入任意一个B站收藏夹，如 https://space.bilibili.com/32708543/favlist?fid=2935220 。
+
 其地址中，`32708543` 这一部分即为用户id，`2935220` 则为收藏夹id。
 

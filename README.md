@@ -15,7 +15,7 @@ pip3 install you-get
 
 ## 使用方法
 
-打开 Bilibili_fav_downloader，编辑用户id，收藏夹id与下载目录，之后直接运行即可。
+打开 Bilibili_fav_downloader.py ，编辑用户id，收藏夹id与下载目录，之后直接运行即可。
 
 ### 如何查看用户id与收藏夹id
 
@@ -23,3 +23,7 @@ pip3 install you-get
 
 其地址中，`32708543` 这一部分即为用户id，`2935220` 则为收藏夹id。
 
+### 注意事项
+
+1. `you-get` 会自动下载收藏夹内每个视频的所有分P。
+2. 如果下载文件夹中已经存在下载好的视频文件，`you-get` 会自动跳过。
